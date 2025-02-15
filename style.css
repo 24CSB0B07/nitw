@@ -363,7 +363,7 @@ hr{
     background-color: grey;
 }
 .notes{
-    height:100%;
+    height:90%;
     overflow:auto;
 }
 .note{
