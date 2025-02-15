@@ -81,18 +81,18 @@ i:hover{
     cursor: pointer;
 }
 .s-container{
-    width:100%;
+    width:100vw;
     height:70%;
     overflow:hidden;
 }
 .img-container{
-    width:100%;
+    width:100vw;
     height:100%;
     display:flex;
     animation:slide 12s ease-out 0s infinite;
 }
 .s-img{
-    width:100%;
+    width:100vw;
 }
 @keyframes slide{
     0%{
@@ -440,7 +440,7 @@ footer{
 .media{
     position:relative;
     left:30%;
-    /* margin-top:3%; */
+    display:inline;
 }
 .media a{
     margin-left:5%;
